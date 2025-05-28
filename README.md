@@ -1,4 +1,4 @@
-[![Lightdreanfun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightdreanfun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/Lightdreanfun)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5AB9E6&width=435&lines=Hello%2C+I'm+Lightdreanfun!;TinyMCE+%F0%9F%92%BB+Web+Wizard;Learning+React+%26+Node.js)](https://github.com/Lightdreanfun)
 - 👋 Hi, I’m @Lightdreanfun  
 - 🎓 I'm a student passionate about web development  
 - 👀 I’m interested in frontend & backend technologies  
