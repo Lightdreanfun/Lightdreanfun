@@ -1,4 +1,4 @@
-[![Lightdreanfun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightdreanfun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Lightdreanfun)
+[![Lightdreanfun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lightdreanfun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/Lightdreanfun)
 - 👋 Hi, I’m @Lightdreanfun  
 - 🎓 I'm a student passionate about web development  
 - 👀 I’m interested in frontend & backend technologies  
